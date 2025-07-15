@@ -1,4 +1,3 @@
-package contohproject;
 
 public class VotingApp {
     public static void main(String[] args) {
