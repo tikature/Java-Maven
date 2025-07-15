@@ -11,7 +11,7 @@ public class VotingApp {
         system.vote("Bob");
         system.vote("Bob");
 
-        System.out.println("Voting results:");
+        System.out.println("Here are the results:");
         system.getAllVotes().forEach((name, count) ->
             System.out.println(name + ": " + count + " votes")
         );
